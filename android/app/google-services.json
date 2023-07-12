@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849598015198",
+    "project_id": "movie-kito",
+    "storage_bucket": "movie-kito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849598015198:android:da136857dbf791f432844f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849598015198-gggi5udjvommtu2brpr72jj0n9dkt9fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNVCBfMWv05H2t-ae5XEHiNOP3aRbf04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849598015198-gggi5udjvommtu2brpr72jj0n9dkt9fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
