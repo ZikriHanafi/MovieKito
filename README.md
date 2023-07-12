@@ -1,8 +1,10 @@
-# flutter_uas
+# MovieKito
+I have project experience developing the MovieKito mobile app using 
+Firebase, Flutter, and Dart. using IMDB API, MovieKito offers features 
+such as movie recommendations, ratings, and a comprehensive 
+database. With a sleek design and user-friendly interface.
 
-A new Flutter project.
-
-## Getting Started
+## 
 
 This project is a starting point for a Flutter application.
 
