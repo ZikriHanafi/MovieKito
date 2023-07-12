@@ -2,6 +2,7 @@
 
 MovieKito is a mobile application developed using Firebase, Flutter, and Dart. It utilizes the IMDB API to provide users with various features such as movie recommendations, ratings, and a comprehensive movie database. The app boasts a sleek design and a user-friendly interface.
 
+## Preview
 ![image](https://github.com/ZikriHanafi/MovieKito/assets/95517450/904de762-2133-4fcd-be03-022e0caef2e3)
 ![image](https://github.com/ZikriHanafi/MovieKito/assets/95517450/05b0bba4-e904-40de-a0fe-7ce7d916d44f)
 ![image](https://github.com/ZikriHanafi/MovieKito/assets/95517450/775c0096-e5bf-4cfa-b1f1-7e01ed9a83ed)
